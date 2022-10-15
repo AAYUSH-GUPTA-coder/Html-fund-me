@@ -1,3 +1,1 @@
-1. HTML / JavaScript
-
-later on, we will use Nextjs / Reactjs
+Added frontend to the existing smart contract 
